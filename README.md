@@ -18,3 +18,13 @@ Checkout
 Please input the order information
 - guest login or facebook login are also accepted
 - Finisth the order payment with Paypal account
+
+
+Admin Panel Access
+http://yotgif.com/wp-admin/
+
+username: tutor
+password: tutor@yotgif
+
+Report
+http://yotgif.com/wp-admin/admin.php?page=advanced_reporting_for_woocommerce
