@@ -16,7 +16,7 @@ Browsing and select your interest events
 
 Checkout
 Please input the order information
-- guest login or facebook login are also accepted
+- guest checkout or member checkout are also accepted
 - Finisth the order payment with Paypal account
 
 
@@ -26,5 +26,5 @@ http://yotgif.com/wp-admin/
 username: tutor
 password: tutor@yotgif
 
-Report
+Selling Report
 http://yotgif.com/wp-admin/admin.php?page=advanced_reporting_for_woocommerce
