@@ -24,7 +24,6 @@ Admin Panel Access
 http://yotgif.com/wp-admin/
 
 username: tutor
-
 password: tutor@yotgif
 
 Selling Report
